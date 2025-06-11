@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Node Explorer</string>
+
+    <string name="node_explorer_title">Node Explorer</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="top_5_nodes_title">Top 5 Nodes by Connectivity</string>
+    <string name="top_100_nodes_title">Top 100 Nodes by Connectivity</string>
+    <string name="top_100_nodes_description">Check out the complete list of the 100 best connected nodes on the network</string>
+    <string name="check_list_button">Check list</string>
+    <string name="search_node">Search for a node</string>
+    <string name="empty_favorite_list_message">No favorites yet. Tap a node to add it to your favorites list.</string>
+
+    <string name="btc">BTC</string>
+
+    <string name="channels_title">Channels</string>
+    <string name="capacity_title">Capacity</string>
+    <string name="country_title">Country</string>
+    <string name="city_title">City</string>
+    <string name="first_seen_title">First seen</string>
+    <string name="last_update_title">Last update</string>
+    <string name="public_key_title">Public Key</string>
+    <string name="check_details_button">Check Details</string>
+
+    <string name="public_key_copied_action">Public key copied to clipboard</string>
+    <string name="copied_action">copied to clipboard</string>
+
+    <string name="ordinal_symbol">.º</string>
+
+    <string name="error_title">An error occurred here</string>
+    <string name="error_description">Looks like something went wrong here, please try again later.</string>
+    <string name="error_try_again_text">Try again</string>
+
+    <string name="sort_by_title">Sort by</string>
+    <string name="sort_by_apply_button">Apply</string>
+    <string name="sort_by_default">Default</string>
+    <string name="sort_by_channels">Channels</string>
+    <string name="sort_by_capacity">Capacity</string>
+    <string name="sort_by_first_seen">First seen</string>
+    <string name="sort_by_last_update">Last update</string>
+</resources>
